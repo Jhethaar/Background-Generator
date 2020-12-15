@@ -1,2 +1,3 @@
 # Background-Generator
-Background Generator exercise from Zero to Mastery. 
+DOM manipulation exercise from Zero to Mastery Academy, The Complete Web Developer in 2021.
+https://academy.zerotomastery.io/p/complete-web-developer-zero-to-mastery
